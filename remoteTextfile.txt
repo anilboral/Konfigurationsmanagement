@@ -1,2 +1,4 @@
+YAY!VERY IMPORTANT CODE FINISHED VERSION 1.0.0!YAY
+
 changes from linked repo|hello from the cloned remote!
 and changes from cloned MERGED| hello from the cloned remote!
